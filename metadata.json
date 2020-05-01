@@ -1,0 +1,10 @@
+{
+  "uuid": "transparent-panel@hafs.in",
+  "version": 1,
+  "name": "Transparent Top Panel",
+  "description": "Make the panel transparent when there is no maximized window",
+  "url": "https://github.com/abihf/gnome-shell-transparent-panel",
+  "shell-version": [
+    "3.36"
+  ]
+}
